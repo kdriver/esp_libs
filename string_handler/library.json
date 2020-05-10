@@ -14,12 +14,12 @@
       "email": "driver..keith@gmail.com",
       "url": "",
       "maintainer": true
-    },
-    {
+    }
   ],
   "dependencies": [
     
   ],
+  "export" : { "include" : "StringHandler" },
   "version": "0.0.1",
   "frameworks": "arduino",
   "platforms": "*"
